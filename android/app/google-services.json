@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "199318782238",
+    "project_id": "zego-test-cc687",
+    "storage_bucket": "zego-test-cc687.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199318782238:android:6fa9e8b4815255f9adc90f",
+        "android_client_info": {
+          "package_name": "com.example.zego_calling_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBekkkY3uPKsN09m6pppFG9zN81DXJTkIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
